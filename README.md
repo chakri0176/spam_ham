@@ -51,7 +51,7 @@ The `RandomForestClassifier` was chosen as the final model due to its high preci
 ### Confusion Matrices
 The confusion matrices for each model provide a visual representation of their performance, showing true positives, true negatives, false positives, and false negatives.
 
-![Confusion Matrices](results/confusion_matrices.png)
+![Confusion Matrices](results/confusion_matrix.png)
 
 ---
 ## How to Use the Trained Model
